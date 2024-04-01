@@ -121,6 +121,10 @@ export default class Elevator {
                         this.prepareToMoveElevator(nextFloor)
                     }
                 }
+            } else {
+                // TODO:
+                // To make the service more eco-friendly, check the most recently added ride request to verify whether
+                // the passenger could be picked up or dropped off along the current route
             }
             
             // every one second, move the elevator one floor, and log the elevator stats
