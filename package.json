@@ -1,0 +1,15 @@
+{
+  "name": "elevator-queue",
+  "version": "1.0.0",
+  "description": "A simple elevator system",
+  "main": "elevator.mjs",
+  "author": "Anne Cypcar",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
