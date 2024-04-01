@@ -13,7 +13,7 @@ The Elevator Service is a JavaScript service designed to control a single elevat
 
 In future iterations, the Elevator Service aims to incorporate the following enhancements:
 
-- **Eco friendly rids**: The elevator can prioritize energy efficiency over expediency of the most recent rider request. The system will analyze patterns of usage and adjust elevator movements to minimize waiting times and energy consumption, providing a more streamlined experience for users.
+- **Eco friendly rides**: The elevator can prioritize energy efficiency over expediency of the most recent rider request. The system will analyze patterns of usage and adjust elevator movements to minimize waiting times and energy consumption, providing a more streamlined experience for users.
 - **Multi-Elevator Support**: The service will be expanded to support multiple elevators, enabling efficient management of elevator traffic in larger buildings.
 - **State-aware Floor Buttons**: Floor buttons will be enhanced to provide visual feedback, indicating the status of the request (on/off), thus improving user experience and interaction.
 
