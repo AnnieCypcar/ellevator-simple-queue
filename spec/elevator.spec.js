@@ -6,7 +6,7 @@ describe('Elevator', () => {
     let elevator;
 
     beforeEach(() => {
-        elevator = new Elevator(10, { PICK_UP: 'PICK_UP', DROP_OFF: 'DROP_OFF' });
+        elevator = new Elevator(10);
     });
 
     afterEach(() => {
